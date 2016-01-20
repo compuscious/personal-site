@@ -209,6 +209,7 @@ header ul a:hover {
 
 header ul a:active {
   background-color:#f0f0f0;
+  height:20px;
 }
 
 strong {
