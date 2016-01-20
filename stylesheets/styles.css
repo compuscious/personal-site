@@ -181,6 +181,10 @@ header li {
   height:20px;
 }
 
+header li:hover {
+  background: #fff;
+}
+
 header li:first-child a {
   border-radius:5px 0 0 5px;
 }
@@ -200,7 +204,7 @@ header ul a {
 }
 
 header ul a:hover {
-  color:#997;
+  color:#999;
 }
 
 header ul a:active {
