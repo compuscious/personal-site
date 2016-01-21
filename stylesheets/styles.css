@@ -199,8 +199,9 @@ header ul a {
   color:#999;
   display:block;
   text-align:center;
-  padding-top:6px;
-  height:20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  height: 14px;
 }
 
 header ul a:hover {
@@ -209,7 +210,14 @@ header ul a:hover {
 
 header ul a:active {
   background-color:#f0f0f0;
-  height:20px;
+  line-height:1;
+  font-size:11px;
+  color:#999;
+  display:block;
+  text-align:center;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  height: 14px;
 }
 
 strong {
