@@ -196,7 +196,7 @@ header li:last-child a {
 header ul a {
   line-height:1;
   font-size:11px;
-  color:#999;
+  color:#000;
   display:block;
   text-align:center;
   padding-top: 3px;
