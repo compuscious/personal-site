@@ -1,3 +1,0 @@
-# mygithubpage
-
-www.joedye.me
